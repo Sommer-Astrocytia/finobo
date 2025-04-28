@@ -51,6 +51,10 @@ const askedQuestionsOrder = [];
             "Hvad kan du bidrage med hos Finobo?",
             "Jeg kan bidrage med analyser, workflow-optimering, AI-løsninger og stærkt samarbejde på tværs af teams.",
           ],
+            komme_i_kontakt: [
+            "Hvordan kan vi komme i kontakt med dig?",
+            "I kan ringe på: 60 90 00 01 eller sende en mail til: medgangnu@gmail.com",
+          ],
         };
 
         userQuestion = questionsMap[question][0];
