@@ -37,7 +37,7 @@ const askedQuestionsOrder = [];
           ],
           hvilke_systemer_kan_du: [
             "Hvilke systemer og værktøjer kan du?",
-            "Excel, PowerPoint, SAP, ERP, HTML, CSS, JavaScript, React, Adobe, Miro, Jira, Figma mm.",
+            "SAP, ERP, HTML, CSS, JavaScript, React, Miro, Jira, Figma, WordPress, Photoshop, Animaker, Excel, Illustrator, Github, Analytics mm.",
           ],
           hvordan_arbejder_du: [
             "Hvordan arbejder du?",
