@@ -54,7 +54,7 @@ const askedQuestionsOrder = [];
             komme_i_kontakt: [
             "Hvordan kan vi komme i kontakt med dig?",
             "I kan ringe på: 60 90 00 01 eller sende en mail til: medgangnu@gmail.com",
-          ],
+          ]
         };
 
         userQuestion = questionsMap[question][0];
