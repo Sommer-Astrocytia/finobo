@@ -17,11 +17,11 @@ const askedQuestionsOrder = [];
           ],
           hvad_har_du_arbejdet_med: [
             "Hvad har du arbejdet med?",
-            "Jeg har arbejdet med Master Data Management, automatisering af workflows, datadrevet UX-design og digital optimering.",
+            "Jeg har arbejdet med master data management, problemløsning, automatisering af workflows, datadrevet UX-design og digital optimering.",
           ],
           hvad_er_dine_styrker: [
             "Hvad er dine styrker?",
-            "Jeg er nysgerrig, struktureret, analytisk og stærk i at kombinere dataindsigter med kreative løsninger.",
+            "Jeg er nysgerrig, struktureret, sød, analytisk og stærk i at kombinere dataindsigter med kreative løsninger.",
           ],
           hvad_er_dine_bedste_kvaliteter: [
             "Hvad er dine bedste kvaliteter?",
@@ -29,15 +29,15 @@ const askedQuestionsOrder = [];
           ],
           hvad_er_din_erfaring_med_ai: [
             "Hvad er din erfaring med AI?",
-            "Jeg bruger AI som en integreret del af mit arbejde til procesoptimering, dataanalyse og smartere brugeroplevelser.",
+            "Jeg er vild med AI bruger det som en integreret del af mit arbejde til procesoptimering, dataanalyse og smartere brugeroplevelser.",
           ],
           hvorfor_finobo: [
             "Hvorfor vil du være i praktik hos Finobo?",
-            "Finobo matcher mit ønske om at arbejde i en innovativ virksomhed med fokus på ansvarlig teknologi.",
+            "Finobo matcher mit ønske om at arbejde i en virksomhed med fokus på optimering og ansvarlig teknologi.",
           ],
           hvilke_systemer_kan_du: [
             "Hvilke systemer og værktøjer kan du?",
-            "Excel, PowerPoint, SAP, ERP, HTML, CSS, JavaScript, React, Adobe, Miro, Jira, Make og Zapier.",
+            "Excel, PowerPoint, SAP, ERP, HTML, CSS, JavaScript, React, Adobe, Miro, Jira, Figma mm.",
           ],
           hvordan_arbejder_du: [
             "Hvordan arbejder du?",
@@ -49,7 +49,7 @@ const askedQuestionsOrder = [];
           ],
           hvad_kan_du_bidrage_med: [
             "Hvad kan du bidrage med hos Finobo?",
-            "Jeg kan bidrage med analyser, workflow-optimering, AI-løsninger og stærkt samarbejde på tværs af teams.",
+            "Jeg kan bidrage med analyser, workflow-optimering og stærke samarbejdsevner.",
           ],
             komme_i_kontakt: [
             "Hvordan kan vi komme i kontakt med dig?",
