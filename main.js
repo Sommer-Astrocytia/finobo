@@ -107,3 +107,4 @@ const askedQuestionsOrder = [];
 
         chatWindow.scrollTop = chatWindow.scrollHeight;
       }
+
