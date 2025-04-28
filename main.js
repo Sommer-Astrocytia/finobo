@@ -49,7 +49,7 @@ const askedQuestionsOrder = [];
           ],
           hvad_kan_du_bidrage_med: [
             "Hvad kan du bidrage med hos Finobo?",
-            "Jeg kan bidrage med analyser, workflow-optimering og stærke samarbejdsevner.",
+            "Jeg kan bidrage med analyser, lysten til at lære, workflow-optimering og stærke samarbejdsevner.",
           ],
             komme_i_kontakt: [
             "Hvordan kan vi komme i kontakt med dig?",
