@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="da">
+  <head>
+    <meta charset="UTF-8" />
+    <script src="main.js"></script>
+    <link rel="stylesheet" href="style.css" />
+    <title>Sommer Karlsen - AI Chatbot</title>
+  </head>
+  <body>
+    <div class="chatbot">
+      <div class="chat-window" id="chatWindow">
+        <div class="chat-header">Spørg til Sommer</div>
+      </div>
+
+      <label for="questions">Vælg et spørgsmål:</label>
+      <select id="questions" onchange="reply()">
+        <option value="">Vælg et spørgsmål</option>
+        <option value="hvem_er_du">Hvem er du?</option>
+        <option value="hvad_har_du_arbejdet_med">
+          Hvad har du arbejdet med?
+        </option>
+        <option value="hvad_er_dine_styrker">Hvad er dine styrker?</option>
+        <option value="hvad_er_dine_bedste_kvaliteter">
+          Hvad er dine bedste kvaliteter?
+        </option>
+        <option value="hvad_er_din_erfaring_med_ai">
+          Hvad er din erfaring med AI?
+        </option>
+        <option value="hvorfor_finobo">
+          Hvorfor vil du være i praktik hos Finobo?
+        </option>
+        <option value="hvilke_systemer_kan_du">
+          Hvilke systemer og værktøjer kan du?
+        </option>
+        <option value="hvordan_arbejder_du">Hvordan arbejder du?</option>
+        <option value="hvad_er_din_baggrund">Hvad er din baggrund?</option>
+        <option value="hvad_kan_du_bidrage_med">
+          Hvad kan du bidrage med hos Finobo?
+        </option>
+      </select>
+    </div>
+  </body>
+</html>
