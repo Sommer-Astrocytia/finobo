@@ -88,3 +88,20 @@ option.asked {
     background-color: #e0f7fa;
   }
 }
+
+@media (max-width: 600px) {
+  .chatbot {
+    width: 90%;
+    padding: 15px;
+  }
+  .chat-window {
+    max-height: 300px;
+  }
+  .bubble {
+    font-size: 14px;
+    padding: 8px 12px;
+  }
+  select {
+    font-size: 14px;
+  }
+}
