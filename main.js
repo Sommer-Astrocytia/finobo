@@ -21,11 +21,11 @@ const askedQuestionsOrder = [];
           ],
           hvad_er_dine_styrker: [
             "Hvad er dine styrker?",
-            "Jeg er nysgerrig, struktureret, sød, analytisk og stærk i at kombinere dataindsigter med kreative løsninger.",
+            "Jeg er nysgerrig, struktureret, analytisk og stærk i at kombinere dataindsigter med kreative løsninger.",
           ],
           hvad_er_dine_bedste_kvaliteter: [
             "Hvad er dine bedste kvaliteter?",
-            "Mine bedste kvaliteter er vedholdenhed, kreativitet, problemløsning og evnen til at holde overblikket.",
+            "Mine bedste kvaliteter er vedholdenhed, kreativitet, venlighed, problemløsning og evnen til at holde overblikket.",
           ],
           hvad_er_din_erfaring_med_ai: [
             "Hvad er din erfaring med AI?",
